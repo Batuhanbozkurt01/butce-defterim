@@ -92,3 +92,10 @@ BütçeDefterim web uygulamasının arayüzünü ve
 Bu web uygulaması, TNC Group Şirketleri bünyesindeki Software Persona Yapay Zekâ Stajyeri Mesleki Gelişim Programı kapsamında geliştirilmiştir.
 
 **2026**
+
+
+## Canlı Web Sitesi
+
+BütçeDefterim uygulamasına aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+[Web Sitesini Aç](https://mellow-blini-e8ce10.netlify.app/)
